@@ -22,6 +22,8 @@ A complete system for logging and visualizing data from iSpindel brewing devices
   - Angle measurements
   - Signal strength (RSSI)
 
+![dashboard](./assets/images/dashboard.png)
+
 ## Getting Started
 
 ### Prerequisites
